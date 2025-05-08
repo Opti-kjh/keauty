@@ -4,10 +4,10 @@
   "main": "index.ts",
   "scripts": {
     "start": "expo start",
-    "android": "expo start --android",
-    "ios": "expo start --ios",
+    "android": "expo run:android",
+    "ios": "expo run:ios",
     "web": "expo start --web",
-    "commit": "cz"
+    "cz": "cz"
   },
   "dependencies": {
     "@react-navigation/native": "^7.1.8",
@@ -18,17 +18,18 @@
     "formik": "^2.4.6",
     "react": "19.0.0",
     "react-native": "0.79.2",
+    "react-native-safe-area-context": "^5.4.0",
     "yup": "^1.6.1"
   },
   "devDependencies": {
     "@babel/core": "^7.25.2",
     "@types/react": "~19.0.10",
     "@types/react-native": "^0.73.0",
+    "commitizen": "^4.3.0",
+    "cz-conventional-changelog": "^3.3.0",
     "eslint": "^9.26.0",
     "prettier": "^3.5.3",
-    "typescript": "~5.8.3",
-    "commitizen": "^4.3.0",
-    "cz-conventional-changelog": "^3.3.0"
+    "typescript": "~5.8.3"
   },
   "config": {
     "commitizen": {
