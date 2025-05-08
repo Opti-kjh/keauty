@@ -1,0 +1,37 @@
+{
+  "appName": "Keauty",
+  "searchPlaceholder": "What product are you looking for?",
+  "promotionTitle": "Get up to 15% off and discover popular K-beauty products",
+  "promotionDesc": "Meet popular Korean brand cosmetics with special discounts. Don't miss the May limited coupon.",
+  "promotionLabel": "Limited Sale",
+  "rankingTitle": "{{ageGroup}} Ranking TOP 5",
+  "comboRankingTitle": "{{ageGroup}} Combo Ranking",
+  "home": "Home",
+  "explore": "Explore",
+  "promotion": "Promotion",
+  "bookmark": "Bookmark",
+  "message": "Message",
+  "ageGroup": { "10s": "Teens", "20s": "Twenties" },
+  "brand": { "A": "BrandA", "B": "BrandB", "C": "BrandC", "D": "BrandD", "E": "BrandE", "F": "BrandF", "G": "BrandG", "H": "BrandH", "I": "BrandI", "J": "BrandJ" },
+  "product": { "tint": "Tint", "cushion": "Cushion", "mascara": "Mascara", "eyeshadow": "Eyeshadow", "suncream": "Sun Cream", "foundation": "Foundation", "lipstick": "Lipstick", "blusher": "Blusher", "maskpack": "Mask Pack", "eyeliner": "Eyeliner" },
+  "desc": {
+    "lively_lip": "Lively lip expression",
+    "moist_skin": "Moist skin finish",
+    "longlash": "Long lash effect",
+    "trendy_color": "Trendy color",
+    "uv_block": "UV protection",
+    "smooth_skin": "Smooth skin",
+    "vivid_color": "Vivid color",
+    "natural_blood": "Natural flush",
+    "intensive_moisture": "Intensive moisture",
+    "clear_eyes": "Clear eyes"
+  },
+  "combo": {
+    "10s_1": "Teens' popular combo",
+    "10s_2": "Natural makeup",
+    "20s_1": "Best combo for twenties",
+    "20s_2": "Skin + point makeup"
+  },
+  "comboLabel": "Combo {{rank}}",
+  "topLabel": "TOP {{rank}}"
+} 

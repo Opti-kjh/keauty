@@ -1,0 +1,37 @@
+{
+  "appName": "Keauty",
+  "searchPlaceholder": "어떤 제품을 찾으시나요?",
+  "promotionTitle": "최대 15% 할인받고, 인기 K-뷰티 제품을 만나보세요",
+  "promotionDesc": "한국 인기 브랜드의 화장품을 특별 할인과 함께 만나보세요. 5월 한정 쿠폰도 놓치지 마세요.",
+  "promotionLabel": "한정할인",
+  "rankingTitle": "{{ageGroup}} 랭킹 TOP 5",
+  "comboRankingTitle": "{{ageGroup}} 조합 랭킹",
+  "home": "홈",
+  "explore": "탐색",
+  "promotion": "프로모션",
+  "bookmark": "북마크",
+  "message": "메시지",
+  "ageGroup": { "10s": "10대", "20s": "20대" },
+  "brand": { "A": "브랜드A", "B": "브랜드B", "C": "브랜드C", "D": "브랜드D", "E": "브랜드E", "F": "브랜드F", "G": "브랜드G", "H": "브랜드H", "I": "브랜드I", "J": "브랜드J" },
+  "product": { "tint": "틴트", "cushion": "쿠션", "mascara": "마스카라", "eyeshadow": "아이섀도우", "suncream": "선크림", "foundation": "파운데이션", "lipstick": "립스틱", "blusher": "블러셔", "maskpack": "마스크팩", "eyeliner": "아이라이너" },
+  "desc": {
+    "lively_lip": "생기있는 입술 표현",
+    "moist_skin": "촉촉한 피부 연출",
+    "longlash": "롱래쉬 효과",
+    "trendy_color": "트렌디한 컬러",
+    "uv_block": "자외선 차단",
+    "smooth_skin": "매끈한 피부",
+    "vivid_color": "선명한 컬러",
+    "natural_blood": "자연스러운 혈색",
+    "intensive_moisture": "집중 보습",
+    "clear_eyes": "또렷한 눈매"
+  },
+  "combo": {
+    "10s_1": "10대 인기 조합",
+    "10s_2": "자연스러운 메이크업",
+    "20s_1": "20대 베스트 조합",
+    "20s_2": "피부+포인트 메이크업"
+  },
+  "comboLabel": "조합 {{rank}}",
+  "topLabel": "TOP {{rank}}"
+} 
