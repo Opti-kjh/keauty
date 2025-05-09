@@ -161,16 +161,6 @@ function BottomTabBar({ t }: { t: any }) {
   );
 }
 
-function SafeTopBar({ t, lang, onToggleLang }: { t: any; lang: string; onToggleLang: () => void }) {
-  return (
-    <SafeAreaView edges={['top']} style={{ backgroundColor: '#fff' }}>
-      <View style={styles.topBar}>
-        <TopBar t={t} lang={lang} onToggleLang={onToggleLang} />
-      </View>
-    </SafeAreaView>
-  );
-}
-
 export default function App() {
   const { t } = useTranslation();
   const [lang, setLang] = useState('ko');
@@ -223,8 +213,9 @@ export default function App() {
 
   return (
     <I18nextProvider i18n={i18n}>
-      <View style={styles.safeArea}>
-        <SafeTopBar t={t} lang={lang} onToggleLang={handleToggleLang} />
+      <SafeAreaView style={{ flex: 1, backgroundColor: '#fff' }} edges={['top', 'left', 'right']}>
+        <StatusBar style="dark" />
+        <TopBar t={t} lang={lang} onToggleLang={handleToggleLang} />
         <ScrollView style={styles.container} showsVerticalScrollIndicator={false}>
           <PromotionBanner t={t} />
           {rankingData.map(section => (
@@ -235,8 +226,7 @@ export default function App() {
           ))}
         </ScrollView>
         <BottomTabBar t={t} />
-        <StatusBar style="dark" />
-      </View>
+      </SafeAreaView>
     </I18nextProvider>
   );
 }
