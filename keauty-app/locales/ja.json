@@ -1,0 +1,41 @@
+{
+  "appName": "Keauty",
+  "searchPlaceholder": "お探しの商品は何ですか？",
+  "promotionTitle": "最大15％オフで人気のK-ビューティー商品を発見",
+  "promotionDesc": "人気の韓国ブランドコスメを特別割引で。5月限定クーポンもお見逃しなく。",
+  "promotionLabel": "限定セール",
+  "rankingTitle": "{{ageGroup}}ランキングTOP5",
+  "comboRankingTitle": "{{ageGroup}}コンボランキング",
+  "home": "ホーム",
+  "explore": "探す",
+  "promotion": "プロモーション",
+  "bookmark": "ブックマーク",
+  "message": "メッセージ",
+  "ageGroup": { "10s": "10代", "20s": "20代" },
+  "brand": { "A": "ブランドA", "B": "ブランドB", "C": "ブランドC", "D": "ブランドD", "E": "ブランドE", "F": "ブランドF", "G": "ブランドG", "H": "ブランドH", "I": "ブランドI", "J": "ブランドJ" },
+  "product": { "tint": "ティント", "cushion": "クッション", "mascara": "マスカラ", "eyeshadow": "アイシャドウ", "suncream": "日焼け止め", "foundation": "ファンデーション", "lipstick": "リップスティック", "blusher": "チーク", "maskpack": "マスクパック", "eyeliner": "アイライナー" },
+  "desc": {
+    "lively_lip": "生き生きとした唇",
+    "moist_skin": "しっとり肌",
+    "longlash": "ロングラッシュ効果",
+    "trendy_color": "トレンディカラー",
+    "uv_block": "UVカット",
+    "smooth_skin": "なめらかな肌",
+    "vivid_color": "鮮やかな色",
+    "natural_blood": "自然な血色",
+    "intensive_moisture": "集中保湿",
+    "clear_eyes": "はっきりした目元"
+  },
+  "combo": {
+    "10s_1": "10代人気コンボ",
+    "10s_2": "ナチュラルメイク",
+    "20s_1": "20代ベストコンボ",
+    "20s_2": "肌＋ポイントメイク"
+  },
+  "comboLabel": "コンボ{{rank}}",
+  "topLabel": "TOP{{rank}}",
+  "my": "マイ",
+  "my.bookmarks": "マイブックマーク",
+  "my.bookmarksProducts": "ブックマークした商品",
+  "my.bookmarksCombos": "ブックマークしたコンボ"
+} 

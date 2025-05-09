@@ -33,5 +33,14 @@
     "20s_2": "피부+포인트 메이크업"
   },
   "comboLabel": "조합 {{rank}}",
-  "topLabel": "TOP {{rank}}"
+  "topLabel": "TOP {{rank}}",
+  "my": "마이",
+  "my.bookmarks": "내 북마크",
+  "my.bookmarksProducts": "북마크한 제품",
+  "my.bookmarksCombos": "북마크한 조합",
+  "my.profile.name": "홍길동",
+  "my.profile.email": "hong@example.com",
+  "search.screen": "탐색 화면입니다.",
+  "promotion.screen": "프로모션 화면입니다.",
+  "message.screen": "메시지 화면입니다."
 } 

@@ -196,6 +196,50 @@ const styles = StyleSheet.create({
     ...common.textDark,
     marginTop: 2,
   },
+  profileSection: {
+    alignItems: 'center',
+    paddingVertical: 32,
+    backgroundColor: '#f7faff',
+    marginBottom: 24,
+  },
+  profileAvatar: {
+    width: 80,
+    height: 80,
+    borderRadius: 40,
+    marginBottom: 12,
+  },
+  profileName: {
+    fontSize: 20,
+    ...common.bold,
+    ...common.textDark,
+    marginBottom: 4,
+  },
+  profileEmail: {
+    fontSize: 14,
+    ...common.textGray,
+    marginBottom: 2,
+  },
+  bookmarkSection: {
+    marginHorizontal: 16,
+    marginBottom: 24,
+  },
+  bookmarkCard: {
+    backgroundColor: '#fff',
+    borderRadius: 8,
+    padding: 16,
+    marginBottom: 12,
+    ...common.shadow,
+  },
+  bookmarkTitle: {
+    fontSize: 16,
+    ...common.bold,
+    ...common.textDark,
+    marginBottom: 2,
+  },
+  bookmarkDesc: {
+    fontSize: 13,
+    ...common.textGray,
+  },
 });
 
 export default styles; 

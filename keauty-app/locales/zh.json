@@ -1,0 +1,41 @@
+{
+  "appName": "Keauty",
+  "searchPlaceholder": "你在找什么产品？",
+  "promotionTitle": "享受高达15%的折扣，发现热门韩妆产品",
+  "promotionDesc": "以特别折扣购买热门韩国品牌化妆品。不要错过五月限量优惠券。",
+  "promotionLabel": "限时特卖",
+  "rankingTitle": "{{ageGroup}} 排行TOP5",
+  "comboRankingTitle": "{{ageGroup}} 组合排行",
+  "home": "首页",
+  "explore": "探索",
+  "promotion": "促销",
+  "bookmark": "收藏",
+  "message": "消息",
+  "ageGroup": { "10s": "10后", "20s": "20后" },
+  "brand": { "A": "品牌A", "B": "品牌B", "C": "品牌C", "D": "品牌D", "E": "品牌E", "F": "品牌F", "G": "品牌G", "H": "品牌H", "I": "品牌I", "J": "品牌J" },
+  "product": { "tint": "唇釉", "cushion": "气垫", "mascara": "睫毛膏", "eyeshadow": "眼影", "suncream": "防晒霜", "foundation": "粉底", "lipstick": "口红", "blusher": "腮红", "maskpack": "面膜", "eyeliner": "眼线笔" },
+  "desc": {
+    "lively_lip": "生动双唇",
+    "moist_skin": "水润肌肤",
+    "longlash": "纤长睫毛效果",
+    "trendy_color": "流行色彩",
+    "uv_block": "防紫外线",
+    "smooth_skin": "光滑肌肤",
+    "vivid_color": "鲜艳色彩",
+    "natural_blood": "自然红润",
+    "intensive_moisture": "深层保湿",
+    "clear_eyes": "明亮双眼"
+  },
+  "combo": {
+    "10s_1": "10后人气组合",
+    "10s_2": "自然妆容",
+    "20s_1": "20后最佳组合",
+    "20s_2": "底妆+重点妆容"
+  },
+  "comboLabel": "组合{{rank}}",
+  "topLabel": "TOP{{rank}}",
+  "my": "我的",
+  "my.bookmarks": "我的收藏",
+  "my.bookmarksProducts": "收藏的产品",
+  "my.bookmarksCombos": "收藏的组合"
+} 

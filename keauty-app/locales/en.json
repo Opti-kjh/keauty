@@ -33,5 +33,14 @@
     "20s_2": "Skin + point makeup"
   },
   "comboLabel": "Combo {{rank}}",
-  "topLabel": "TOP {{rank}}"
+  "topLabel": "TOP {{rank}}",
+  "my": "My",
+  "my.bookmarks": "My Bookmarks",
+  "my.bookmarksProducts": "Bookmarked Products",
+  "my.bookmarksCombos": "Bookmarked Combos",
+  "my.profile.name": "Hong Gildong",
+  "my.profile.email": "hong@example.com",
+  "search.screen": "This is the Search screen.",
+  "promotion.screen": "This is the Promotion screen.",
+  "message.screen": "This is the Message screen."
 } 
